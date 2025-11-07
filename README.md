@@ -1,6 +1,7 @@
-# 🚀 2. Leading with Data: How Startup Leaders Balance Service vs Product Decisions  
+# 🚀 2. Leading with Data
 Part 2 of Analytical Think Pieces
 
+How Startup Leaders Balance Service vs Product Decisions  
 
 Whether you lead a service or product startup, data has become your silent co-founder.  
 The difference lies in **what** you measure and **how fast** you act.  
