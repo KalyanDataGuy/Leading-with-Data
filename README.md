@@ -1,9 +1,10 @@
 # 🚀 2. Leading with Data
-Part 2 of Analytical Think Pieces
+**Part 2 of Analytical Think Pieces**
 
 How Startup Leaders Balance Service vs Product Decisions  
 
 Whether you lead a service or product startup, data has become your silent co-founder.  
+
 The difference lies in **what** you measure and **how fast** you act.  
 
 | Focus Area | Service Startup | Product Startup |
@@ -13,8 +14,11 @@ The difference lies in **what** you measure and **how fast** you act.
 | Key Dashboard | Utilization & Revenue | NPS & Active Users |
 
 True leadership now means **decoding trends before they turn into roadblocks**.  
+
 You don’t need endless meetings — just clean metrics and the courage to act on them.  
 
 ✨ **Takeaway:** Every leader is now a data interpreter.  
+
+<img width="1024" height="1536" alt="KalyanDataGuy Leadingwithdata" src="https://github.com/user-attachments/assets/1a71a828-3d4d-4e0a-b6fa-07d2905a8731" />
 
 *KalyanDataGuy © 2025*  
